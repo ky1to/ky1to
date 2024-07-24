@@ -1,5 +1,6 @@
 Hello, I'm glad to see you on my profile.
-my skills: 
+
+My skills: 
 - python
 - fast api
 - sqlalchemy
@@ -8,4 +9,4 @@ my skills:
 - I know the basics С++
 - linux
 - docker
-- worked with microcontrollers
+- worked with microcontrollers(esp32)
