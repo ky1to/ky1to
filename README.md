@@ -1,4 +1,6 @@
-Hello, I'm glad to see you on my profile.
+Hello my name is Vlad Kozakov, I'm glad to see you on my profile.
+
+Email: vlad.kozakov.mail@gmail.com
 
 My skills: 
 - python
