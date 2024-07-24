@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**ky1to/ky1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm glad to see you on my profile.
+my skills: 
+- python
+- fast api
+- sqlalchemy
+- postgresql, sqlite
+- html, css, js
+- I know the basics С++
+- linux
+- docker
+- worked with microcontrollers
